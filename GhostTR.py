@@ -266,7 +266,7 @@ def option():
     / /_/ / / / / /_/ (__  ) /_/_____/ / / /  / /_/ / /__/ ,<   
     \____/_/ /_/\____/____/\__/     /_/ /_/   \__,_/\___/_/|_| 
 
-              {Wh}[ + ]  C O D E   B Y  H U N X  [ + ]
+              {Wh}[ + ]  C O D E   B Y  R I C K O [ + ]
     """)
 
     stderr.writelines(f"\n\n\n{option_text()}")
@@ -278,8 +278,8 @@ def run_banner():
     stderr.writelines(f"""{Wh}
          .-.
        .'   `.          {Wh}--------------------------------
-       :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
+       :g g   :         {Wh}| {Gr}STARWIZ - TRACKER - IP ADDRESS {Wh}|
+       : o    `.        {Wh}|       {Gr}@CODE BY RICKO      {Wh}|
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
